@@ -61,9 +61,9 @@ We propose a multi-label classification model, named MLBP, to predict peptide fu
 python predictor.py --file test.fasta --out_path result
 ```
 
--`--`file : input the test file with fasta format
+- `--file` : input the test file with fasta format
 
--`--`out_path: the output path of the predicted results
+- `--out_path`: the output path of the predicted results
 
 
 ## Contact
