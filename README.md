@@ -13,7 +13,7 @@ In this study, we develop a method MLBP (Multi-Label deep learning approach for 
 
 Note:
 
-For the peptides with length ≤ 45, the prediction results of MLBP are accurate. If the peptides with length > 45, the prediction results for ACP, ADP, AHP, AIP and AMP are just for reference only
+On the benchmark dataset, expect AMPs have the length > 45, the vast majority of ACPs, ADPs, AHPs and AIPs are with length < 45. Thus, for the peptides with length ≤ 45, the prediction results of MLBP are accurate. If the peptides with length > 45, the prediction results for ACP, ADP, AHP and AIP are less accurate.
 
 ![draft](./figures/framework.jpg)
 
