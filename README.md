@@ -1,5 +1,5 @@
 # MLBP
-Identifying bioactive peptide function using multi-label deep learning
+Identifying multi-functional bioactive peptide functions using multi-label deep learning
 
 
 ## Introduction
@@ -72,4 +72,8 @@ python predictor.py --file test.fasta --out_path result
 
 ## Contact
 Please feel free to contact us if you need any help.
+
+
+## Citation
+Tang W, Dai R, Yan W, et al. Identifying multi-functional bioactive peptide functions using multi-label deep learning[J]. Briefings in Bioinformatics, 2021.
 
